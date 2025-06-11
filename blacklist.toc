@@ -3,6 +3,22 @@
 ## IconTexture: Interface\Addons\blacklist\assets\logo_small.jpg
 ## Notes: Enables the ability to blacklist players to create an optimal and safe gaming environment.
 ## Author: Carneios
-## Version: 1.0
+## Version: 1.1.0
+## SavedVariables: BlacklistDB
+## X-Category: Social, Utility
 
-main.lua
+# Core
+core.lua
+db.lua
+init.lua
+localization.lua
+
+# Modules
+modules\commands.lua
+modules\group.lua
+modules\minimap.lua
+modules\tooltip.lua
+
+# UI
+ui\blacklist_manager.lua
+ui\config.lua
