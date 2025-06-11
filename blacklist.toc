@@ -1,6 +1,6 @@
 ## Interface: 110105, 110107
 ## Title: The Blacklist
-## IconTexture: Interface\Addons\blacklist\logo
+## IconTexture: Interface\Addons\blacklist\logo_small.jpg
 ## Notes: Enables the ability to blacklist players to create an optimal and safe gaming environment.
 ## Author: Carneios
 ## Version: 1.0
